@@ -1,0 +1,15 @@
+.home-section {
+    background-image: url(/images/hyper.gif);
+    background-size: 79vw;
+    background-position: 60% 40%;
+}
+.actcontent .coolshii div {
+    margin-top: 2vw;
+    padding-left: 7vw;
+    padding-right: 7vw;
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+}
